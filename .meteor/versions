@@ -68,6 +68,7 @@ mongo@1.1.2
 mongo-id@1.0.1
 msavin:jetsetter@1.2.0
 msavin:mongol@1.4.1
+mongo-livedata@1.0.9
 npm-mongo@1.4.39_1
 observe-sequence@1.0.7
 ordered-dict@1.0.4
